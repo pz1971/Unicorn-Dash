@@ -8,7 +8,6 @@ void ss(int gg);
 /*
  function iDraw() is called again and again by the system.
  
-
  */
 int menu_s = 0;
 int go_s = 0;
