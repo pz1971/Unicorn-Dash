@@ -617,22 +617,6 @@ void iKeyboard(unsigned char key)
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     /*else if (key == 'a' && speed < 5)
         speed += 1;
     else if (key == 's' && speed > 0)
